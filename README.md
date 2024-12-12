@@ -2,8 +2,8 @@ Natalia Nykaza
 Programming Tools & Techniques
 Final Project !!!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+npm start
+Open [http://localhost:3000](http://localhost:3000) to view in browser
 
 Open Library Search API
 
